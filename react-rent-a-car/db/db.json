@@ -1,0 +1,179 @@
+{
+  "users": [
+    {
+      "id": "b56d7fbc-f04e-4f61-b0a0-219eb08219e4",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "name": "Beryl Yang",
+      "email": "berylyang@zytrex.com",
+      "phone": "+1 (958) 547-3729",
+      "address": "483 Elliott Place, Lookingglass, Arkansas, 3985",
+      "role": "user"
+    },
+    {
+      "id": "87b33c6b-bf64-4a61-871b-285eefa50a0d",
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=2",
+      "name": "Conner Solomon",
+      "email": "connersolomon@zytrex.com",
+      "phone": "+1 (876) 429-3788",
+      "address": "238 Glenwood Road, Hessville, North Carolina, 885",
+      "role": "user"
+    },
+    {
+      "id": "4ee89894-1307-408d-a6f4-3929b82b21b5",
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=3",
+      "name": "Levine Browning",
+      "email": "levinebrowning@zytrex.com",
+      "phone": "+1 (962) 414-3745",
+      "address": "203 Vine Street, Cliffside, District Of Columbia, 8267",
+      "role": "user"
+    },
+    {
+      "id": "dae19827-a08d-471c-81ef-017f885bf76f",
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=4",
+      "name": "Harriett Merrill",
+      "email": "harriettmerrill@zytrex.com",
+      "phone": "+1 (936) 426-2438",
+      "address": "917 Dahl Court, Kieler, South Carolina, 7402",
+      "role": "user"
+    },
+    {
+      "id": "80d3e624-7ab1-4f31-a380-171a8647d3f8",
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=5",
+      "name": "Melody Weaver",
+      "email": "melodyweaver@zytrex.com",
+      "phone": "+1 (886) 441-2504",
+      "address": "208 Stryker Street, Mammoth, Illinois, 6893",
+      "role": "user"
+    },
+    {
+      "id": "03408d73-7521-4b6d-8432-533fdda29c2d",
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=6",
+      "name": "Lakeisha Kemp",
+      "email": "lakeishakemp@zytrex.com",
+      "phone": "+1 (847) 454-2102",
+      "address": "833 Thatford Avenue, Turah, Hawaii, 778",
+      "role": "user"
+    },
+    {
+      "id": "7a92279a-d4fb-498a-bbbd-a498e589637d",
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=7",
+      "name": "Maura Mccarty",
+      "email": "mauramccarty@zytrex.com",
+      "phone": "+1 (965) 595-3115",
+      "address": "466 Bay Avenue, Jessie, Wisconsin, 7223",
+      "role": "user"
+    },
+    {
+      "isActive": true,
+      "name": "Redzhep Kanazirski",
+      "picture": "https://i.pinimg.com/564x/a2/bf/5c/a2bf5cc4fc27cf1f6f602e5c02d44491.jpg",
+      "email": "kanazirski@gmail.com",
+      "phone": "+359 896083688",
+      "address": "Plovdiv, Bulgaria",
+      "password": "123",
+      "id": "mnT-wrnnYY",
+      "role": "admin"
+    },
+    {
+      "isActive": true,
+      "name": "Nikolay Georgiev",
+      "picture": "https://picsum.photos/200/300?random=9",
+      "email": "georgiev@abv.bg",
+      "phone": "0896547833",
+      "address": "Sofia, Bulgaria",
+      "id": "9pJWyvE"
+    }
+  ],
+  "vehicles": [
+    {
+      "type": "economy",
+      "brand": "Audi",
+      "model": "Q5 2.0TDI",
+      "year": "2013",
+      "fuel": "diesel",
+      "seats": "5",
+      "picture": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_default/v1/editorial/audi-q5-my21-index-1.png",
+      "pricePerDay": "20",
+      "count": "2",
+      "id": 7
+    },
+    {
+      "type": "economy",
+      "brand": "Mercedes-Benz",
+      "model": "CLA 45 AMG 4Matik/Navi/Kam",
+      "year": "2014",
+      "fuel": "petrol",
+      "seats": "5",
+      "picture": "https://www.cars.com/i/large/in/v2/stock_photos/ba4565f7-a7d8-4d11-9744-76bdf02d0889/78b65a03-254c-42b3-ba66-4d3168a3d90f.png",
+      "pricePerDay": "15",
+      "count": "1",
+      "id": 8
+    },
+    {
+      "type": "estate",
+      "brand": "Honda",
+      "model": "CR-V Facelift 2.2D",
+      "year": "2011",
+      "fuel": "diesel",
+      "seats": "5",
+      "picture": "https://paultan.org/image/2020/11/2020-Honda-CR-V-facelift-Malaysia-official-launch-1-630x330.jpg",
+      "pricePerDay": "10",
+      "count": "5",
+      "id": 9
+    },
+    {
+      "type": "luxury",
+      "brand": "Peugeot",
+      "model": "3008",
+      "year": "2017",
+      "fuel": "diesel",
+      "seats": "5",
+      "picture": "https://sale.peugeot.bg/f/carsLogo/1/7a2c79bc04ae916a8ba9417746cbbaa3.png",
+      "pricePerDay": "10",
+      "count": "7",
+      "id": 10
+    },
+    {
+      "type": "economy",
+      "brand": "Skoda ",
+      "model": "Octavia 1.6 Tdi",
+      "year": "2012",
+      "fuel": "diesel",
+      "seats": "2",
+      "picture": "https://ymimg1.b8cdn.com/uploads/car_model/6405/pictures/6727770/01.png",
+      "pricePerDay": "10",
+      "count": "3",
+      "id": 11
+    },
+    {
+      "type": "economy",
+      "brand": "Hyundai",
+      "model": "ix35 2.0 CRDI 136",
+      "year": "2010",
+      "fuel": "diesel",
+      "seats": "5",
+      "picture": "https://purepng.com/public/uploads/large/purepng.com-hyundai-ix35-carcarvehicletransporthyundai-961524640465pb2gl.png",
+      "pricePerDay": "20",
+      "count": "10",
+      "id": 12
+    }
+  ],
+  "rentals": [
+    {
+      "vehicleId": 9,
+      "vehicleName": "Mercedes-Benz",
+      "startDate": "2022-11-27",
+      "endDate": "2023-01-05",
+      "userId": "mnT-wrnnYY",
+      "userName": "Redzhep Kanazirski",
+      "id": 1
+    }
+  ]
+}
